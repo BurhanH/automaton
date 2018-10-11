@@ -1,9 +1,11 @@
 # Automaton project
 
-![alt text](https://github.com/BurhanH/automaton/raw/master/automaton.png "Automaton")
-
 This project was developed to show how possible to automate similar scenarios on different programming languages and different testing frameworks.
 I tried to cover popular testing approaches such as UI testing with popular Selenium and API testing.
+
+![alt text](https://github.com/BurhanH/automaton/raw/master/automaton.png "Automaton") <br>
+
+List of repositories: <br>
 
 1) [Automation-v1](https://github.com/BurhanH/automaton-v1 "Automaton-v1 project") UI, Python, Selenium, Behave <br>
 2) [Automation-v2](https://github.com/BurhanH/automaton-v2 "Automaton-v2 project") UI, Python, Selenium, Unittest <br>
