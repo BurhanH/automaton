@@ -13,5 +13,7 @@ List of repositories: <br>
 4) [Automaton-v4](https://github.com/BurhanH/automaton-v4 "Automaton-v4 project") UI, Ruby, Selenium, Cucumber <br>
 5) [Automaton-v5](https://github.com/BurhanH/automaton-v5 "Automaton-v5 project") API, Python, Unittest <br>
 6) [Automaton-v6](https://github.com/BurhanH/automaton-v6 "Automaton-v6 project") API, Python, Pytest <br>
+7) [Automaton-v7](https://github.com/BurhanH/automaton-v7 "Automaton-v7 project") UI, JavaScript, Selenium <br>
+8) [Automaton-v8](https://github.com/BurhanH/automaton-v8 "Automaton-v8 project") UI, Java, JUnit <br>
 
 To be continued ...
