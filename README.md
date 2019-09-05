@@ -20,6 +20,6 @@ List of repositories: <br>
 9) [Automaton-v9](https://github.com/BurhanH/automaton-v9 "Automaton-v9 project") UI / Visual, Python, Selenium, Unittest <br>
 10) [Automaton-v10](https://github.com/BurhanH/automaton-v10 "Automaton-v10 project") Performance / Load, Scala, Gatling tool <br>
 11) [Automaton-v11](https://github.com/BurhanH/automaton-v11 "Automaton-v11 project") UI, Java, Selenium, TestNG <br>
-
+12) [Automaton-v12](https://github.com/BurhanH/Automaton-v12 "Automaton-v12 project") UI, Java, Selenium, TestNG, PageFactory <br>
 
 To be continued ...
