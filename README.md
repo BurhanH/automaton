@@ -20,8 +20,8 @@ I tried to cover popular testing approaches such as UI testing with popular Sele
 9) [Automaton-v9](https://github.com/BurhanH/automaton-v9 "Automaton-v9 project") UI / Visual, Python, Selenium, Unittest <br>
 10) [Automaton-v10](https://github.com/BurhanH/automaton-v10 "Automaton-v10 project") Performance / Load, Scala, Gatling tool <br>
 11) [Automaton-v11](https://github.com/BurhanH/automaton-v11 "Automaton-v11 project") UI, Java, Selenium, TestNG <br>
-12) [Automaton-v12](https://github.com/BurhanH/Automaton-v12 "Automaton-v12 project") UI, Java, Selenium, TestNG, PageFactory <br>
-13) [Automaton-v13](https://github.com/BurhanH/Automaton-v13 "Automaton-v13 project") Java, Junit, Cucumber <br>
-14) [Automaton-v14](https://github.com/BurhanH/Automaton-v14 "Automaton-v14 project") UI, Java, Junit, Cucumber, Selenium, PageFactory <br>
+12) [Automaton-v12](https://github.com/BurhanH/automaton-v12 "Automaton-v12 project") UI, Java, Selenium, TestNG, PageFactory <br>
+13) [Automaton-v13](https://github.com/BurhanH/automaton-v13 "Automaton-v13 project") Java, Junit, Cucumber <br>
+14) [Automaton-v14](https://github.com/BurhanH/automaton-v14 "Automaton-v14 project") UI, Java, Junit, Cucumber, Selenium, PageFactory <br>
 
 To be continued ...
