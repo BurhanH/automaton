@@ -24,4 +24,4 @@ I've tried to cover popular testing approaches such as UI testing with popular S
 13) [Automaton-v13](https://github.com/BurhanH/automaton-v13 "Automaton-v13 project") Java, Junit, Cucumber <br>
 14) [Automaton-v14](https://github.com/BurhanH/automaton-v14 "Automaton-v14 project") UI, Java, Junit, Cucumber, Selenium, PageFactory <br>
 15) [Automaton-v15](https://github.com/BurhanH/automaton-v15 "Automaton-v15 project") API, JavaScript, Mocha, Chai, Supertest <br>
-16) [Automaton-v16](https://github.com/BurhanH/automaton-v16 "Automaton-v16 project") Test Infrastructure, Travis CI, Docker, Selenium Grid <br>)
+16) [Automaton-v16](https://github.com/BurhanH/automaton-v16 "Automaton-v16 project") Test Infrastructure, Travis CI, Docker, Selenium Grid <br>
