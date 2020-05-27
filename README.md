@@ -27,3 +27,4 @@ I've tried to cover popular testing approaches such as UI testing with popular S
 16) [Automaton-v16](https://github.com/BurhanH/automaton-v16 "Automaton-v16 project") Test Infrastructure, Travis CI, Docker, Selenium Grid <br>
 17) [Automaton-v17](https://github.com/BurhanH/automaton-v17 "Automaton-v17 project") Chatbot validation, Python, Unittest <br>
 18) [Automaton-v18](https://github.com/BurhanH/automaton-v18 "Automaton-v18 project") Robot framework, Python (Under construction)  
+19) [Automaton-v19](https://github.com/BurhanH/automaton-v19 "Automaton-v19 project") Appium, Android, NodeJS, Python (Under construction)
