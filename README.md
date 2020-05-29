@@ -1,6 +1,8 @@
 # Automaton project
 
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/BurhanH/automaton/blob/master/LICENSE)
+[![HitCount](http://hits.dwyl.com/BurhanH/automaton.svg)](http://hits.dwyl.com/BurhanH/automaton)
+
 
 This project was developed to show how possible to automate similar scenarios on different programming languages and a variety of testing frameworks.
 I've tried to cover popular testing approaches such as UI testing with popular Selenium and API testing.
