@@ -31,3 +31,4 @@ I've tried to cover popular testing approaches such as UI testing with popular S
 18) [Automaton-v18](https://github.com/BurhanH/automaton-v18 "Automaton-v18 project") Robot framework, Python (Under construction) <br>  
 19) [Automaton-v19](https://github.com/BurhanH/automaton-v19 "Automaton-v19 project") Appium, Android, NodeJS, Python (Under construction) <br>
 20) [Automaton-v20](https://github.com/BurhanH/Automaton-v20 "Automaton-v20 project") API validation, Java, REST assured, JUnit <br>
+20) [Automaton-v21](https://github.com/BurhanH/Automaton-v21 "Automaton-v21 project") UI validation, Cypress, Mocha (Under construction) <br>
