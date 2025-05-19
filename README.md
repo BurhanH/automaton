@@ -35,3 +35,6 @@ I've tried to cover popular testing approaches such as UI testing, API testing, 
 23) [Automaton-v23](https://github.com/BurhanH/automaton-v23 "Automaton-v23 project") API validation, C#, .Net8, MSTest, Refit <br>
 24) [Automaton-v24](https://github.com/BurhanH/automaton-v24 "Automaton-v24 project") API validation, C#, .Net8, MSTest ,RestSharp <br>
 25) [Automaton-v25](https://github.com/BurhanH/automaton-v25 "Automaton-v25 project") API validation, C#, .Net8, TUnit, Refit <br>
+26) [Automaton-v26](https://github.com/BurhanH/automaton-v26 "Automaton-v26 project") API validation, C#, .Net8, XUnit, Refit <br>
+27) [Automaton-v27](https://github.com/BurhanH/automaton-v27 "Automaton-v27 project") API validation, C#, .Net8, XUnit, MSTest, Refit <br>
+28) [Automaton-v28](https://github.com/BurhanH/automaton-v28 "Automaton-v28 project") UI validation, C#, .Net8, MSTest, Playwright <br>
